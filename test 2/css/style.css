@@ -1,0 +1,38 @@
+/*topbar start*/
+.slider, .menu{
+    background-color: #000000 !important;
+}
+.menu1{
+	padding: 20px 0;
+}
+.menu1 img{
+	min-width: 40px;
+}
+/*tobar end*/
+/*menu bar start*/
+.menunav{
+	background-color: #191919 !important;
+}
+.textcolor2{
+	color: #0C090A;
+	list-style: none;
+	padding-bottom: 20px;
+	margin: 10px 0;
+}
+.textcolor2 li a{
+	font-family:palyfair serif;
+	font-size: 18px;
+	color: #ffffff;
+	padding-left: 20px;
+	border-bottom: 4px solid  #E5E4E2;
+}
+.textcolor2 li a:hover{
+	border-bottom: 4px solid #151515;
+}
+/*menu bar end*/
+/*hero strat*/
+.hero, .bg-black, .n1{
+	background-color: #191919 !important;
+	border:none;
+}
+/*hero end*/
